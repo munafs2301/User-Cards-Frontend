@@ -1,0 +1,58 @@
+body {
+    padding-top: 100px;
+ }
+ 
+ 
+ #main {
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;  
+     padding-bottom: 200px;
+     
+ }
+ 
+#aside {
+        padding-left: 30px;
+
+}
+
+ #sketch {
+     display: flex;
+     flex-direction: column;
+ }
+ 
+ #navflex {
+     display: flex;
+     flex-direction: column; 
+     position: relative;
+     
+ }
+ 
+ #social-link{
+     display: flex;
+     justify-content: center;
+     margin-bottom: 20px;
+ 
+ }
+ 
+ #social-link div a{
+     justify-content: space-evenly;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ 
+ #tc{
+    padding-top: 10px;
+    padding-bottom: 10px;
+     justify-content: center;
+     display: flex;
+ }
+ #copy p{
+     justify-content: center;
+     display: flex;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     color: darkgrey;
+ }
+ 
+ 
